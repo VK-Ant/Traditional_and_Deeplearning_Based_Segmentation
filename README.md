@@ -1,5 +1,7 @@
 # Traditional VS Deep-learning based segmentation
 
+- https://medium.com/@VK_Venkatkumar/segmentation-traditional-deep-learning-approaches-edd50a3308b3
+
 # 1. Deep-learning based  segmentation
 
 ![__results___49_9](https://user-images.githubusercontent.com/75832198/208297864-f130156c-a035-4d63-b826-f4c2e67939bb.png)
